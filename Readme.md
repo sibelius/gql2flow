@@ -18,6 +18,7 @@ Options:
   -w --whitelist <whitelist>         names of types to whitelist (comma delimited)
   --null-keys                        adds a '?' to all keys
   --null-values                      adds a '?' to all values
+  -e --export                        use export rather than declare to define types
 ```
 
 ## Examples
